@@ -1,0 +1,5 @@
+module github.com/alaref-codes/rest-api-tut
+
+go 1.17
+
+require github.com/gorilla/mux v1.8.0
